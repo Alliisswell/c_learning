@@ -1,0 +1,3 @@
+﻿  Astar.cpp
+F:\Microsoft Visual Studio Files\learning\path programming\Astar\Astar.cpp(16,130): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  Astar.vcxproj -> F:\Microsoft Visual Studio Files\learning\path programming\Astar\x64\Debug\Astar.exe
